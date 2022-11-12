@@ -1,0 +1,1 @@
+User creates baskets account -> request to server -> server uses geth to generate ethereum account -> server gets account details -> sends the details back to frontend -> details displayed in app
